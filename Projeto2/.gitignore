@@ -1,0 +1,10 @@
+# .NET Core / Visual Studio / Rider
+/[Bb]in/
+/[Oo]bj/
+.vs/
+.idea/
+*.user
+*.suo
+project.lock.json
+project.fragment.lock.json
+artifacts/
